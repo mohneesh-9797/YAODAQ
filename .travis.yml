@@ -2,7 +2,7 @@ language: cpp
 dist: bionic
 
 arch:
-  - amd64
+    - amd64
 
 compiler:
  - gcc
